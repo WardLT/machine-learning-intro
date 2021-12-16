@@ -1,5 +1,7 @@
 # Introduction to Machine Learning
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WardLT/machine-learning-intro/HEAD)
+
 The corresponding notebooks to the lecture focus on first learning how to use Scikit-Learn, a widely-used machine learning package in Python, 
 and then illustrate how to use it with scientific data that requires pre-processing, using molecular property prediction as an example.
 
@@ -11,7 +13,7 @@ There are two ways to run the notebooks.
 
 ### Binder
 
-TBD
+Binder will build the enviornment for you and host it on a cloud-hosted instance. Just click: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WardLT/machine-learning-intro/HEAD)
 
 ### Local Installation
 
